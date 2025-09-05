@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mh6pQBN8qTE=",
+  "dgSpecHash": "Jsl+e5QvveA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell Laptop\\Desktop\\bb\\CV-MCP-Back\\code\\code.csproj",
+  "projectFilePath": "C:\\Users\\Dell Laptop\\Desktop\\ff\\CV-MCP-Front\\code\\code.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell Laptop\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
     "C:\\Users\\Dell Laptop\\.nuget\\packages\\dotnetgeminisdk\\1.0.14\\dotnetgeminisdk.1.0.14.nupkg.sha512",

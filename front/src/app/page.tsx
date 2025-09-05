@@ -28,7 +28,7 @@ export default function Home() {
       const res = await fetch(CHAT_API_URL, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ message: input }),
+        body: JSON.stringify({ question: input }),
       });
       const data = await res.json();
       setMessages((msgs) => [...msgs, { role: "assistant", content: data.reply || JSON.stringify(data) }]);
